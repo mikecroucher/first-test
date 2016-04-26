@@ -17,4 +17,11 @@ And so-on...
 
 **bold** star-star-bold text-star-star
 
-Let's try that for starters
+Let's try that for starters...
+
+*(some time later)...* it worked! 
+
+So here I am, editing a new file in order to see the workflow of how to make changes to an existing document. I also plan to add a new one.
+
+
+
